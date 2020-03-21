@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "lightgrey",
+      "flexDirection": "row",
+      "height": 100,
+      "marginBottom": 20,
+      "padding": 10,
+      "width": 319.3,
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": undefined,
+      }
+    }
+    style={
+      Object {
+        "alignSelf": "center",
+        "height": 80,
+        "justifyContent": "flex-start",
+        "width": 80,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      said
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "grey",
+        }
+      }
+    >
+       
+      Released Date: 
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "grey",
+        }
+      }
+    >
+       Year: 
+      2030
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "bottom": 5,
+        "flexDirection": "row",
+        "position": "absolute",
+        "right": 10,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "color": "#800080",
+            "fontSize": 30,
+          },
+          Object {
+            "paddingHorizontal": 10,
+          },
+          Object {
+            "fontFamily": "Ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+</View>
+`;
